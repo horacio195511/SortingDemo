@@ -1,0 +1,2 @@
+Maybe we should abstract the sorting algorithm with an interface call sortAlgorithm.
+this might help the reusability
